@@ -7,18 +7,15 @@
 
 ## Install
 
-### TVM source code install
-LLVM install in Ubuntu（other system require source code compilation）
+### inna install
+TVM need LLVM，LLVM install in Ubuntu（other system require source code compilation）
 ```bash
 apt search llvm
 apt install llvm-6.0
 apt install clang-6.0
 ```
 
-TVM Install Source<https://tvm.apache.org/docs/install/from_source.html>
-
-### inna install
-Install miniconda for python=3.6
+Install miniconda for python=3.6，install_inna.sh include TVM install script（refer to TVM <https://tvm.apache.org/docs/install/from_source.html>）
 ```bash
 conda create -n inna python=3.6 ipykernel -y
 conda activate inna
