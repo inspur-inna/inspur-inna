@@ -1,5 +1,5 @@
+![Image text](https://github.com/inspur-inna/inspur-inna/blob/master/Image/inspur.png)
 
-<img src="https://https://github.com/inspur-inna/inspur-inna/tree/master/Image/inspur.png" width="100"></a>
 # 基于FPGA的CNN自适应映射技术---inspur-inna
 
 基于宏指令的Look-Aside Acceleration框架：
