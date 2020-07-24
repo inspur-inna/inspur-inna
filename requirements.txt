@@ -1,0 +1,12 @@
+# pip install -U -r requirements.txt
+numpy
+decorator
+attrs
+opencv-python
+tensorflow>=1.14.0
+keras
+mxnet
+torch
+torchvision
+onnx
+pybind11

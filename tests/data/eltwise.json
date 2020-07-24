@@ -1,0 +1,3 @@
+[
+  { "runid": 0, "instr_name": "ELTWISE", "parents": [], "children": [], "siblings": [], "batch_size": 1, "input_width": 112, "input_height": 112, "input_channel": 64, "input_addr": "0x400000", "residual_addr": "0x50000000", "quant_addr": "0x80000000", "output_addr": "0x40000000", "input_size": 802816, "output_size": 802816}
+]
