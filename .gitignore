@@ -1,0 +1,11 @@
+.ycm_extra_conf.py
+*__pycache__*
+*.pyc
+*.bin
+*.log
+docs/build
+tools/tvm
+inna/compiler/json
+inna/compiler/out
+inna/runtime/ref
+inna/runtime/_runtime*
