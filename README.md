@@ -48,4 +48,5 @@ $ python runtime.py
 
 ## Open source disclaimer
  【0416】inna开源代码免责声明.docx
- [disclaimer](https://github.com/inspur-inna/inspur-inna/blob/master/doc/disclaimer)
+ 
+ [disclaimer](https://github.com/inspur-inna/inspur-inna/blob/master/docs/disclaimer)
